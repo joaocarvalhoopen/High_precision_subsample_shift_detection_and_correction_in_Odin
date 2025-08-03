@@ -2,7 +2,7 @@
 This is what appears to be a very precise shift detection.
 
 ## Description
-I was searching for ways to increase the accuracy of a shift detection by cross correlation implemented with FFT and with with phase detection, and after many iterative steps with a llm and after many manual correction and modificationn to the code. I come up with this very precise implementation ( low error ) that I share in this repository.
+I was searching for ways to increase the accuracy of a shift detection by cross correlation implemented with FFT and with phase detection, and after many iterative steps with a llm and after many manual correction and modificationn to the code. I come up with this very precise implementation ( low error ) that I share in this repository.
 
 ## License
 MIT Open Source license
